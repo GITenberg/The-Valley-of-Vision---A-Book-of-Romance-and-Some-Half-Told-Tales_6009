@@ -1,0 +1,36 @@
+_repo: The-Valley-of-Vision---A-Book-of-Romance-and-Some-Half-Told-Tales_6009
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Van
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry I. Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Religious fiction, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'A remembered dream -- Antwerp road -- A city of refuge -- A sanctuary
+  of trees -- The king’s high way -- Half-told tales: The traitor in the house. Justice
+  of the elements. Ashes of vengenace -- The broken soldier and the maid of France
+  -- The hearing ear -- Sketches of Quebec -- A classic instance -- Half-told tales:
+  The new era and carry on. The primitive and his sandals. Diana and the lions --
+  The hero and tin soldiers -- Salvage Point -- The Boy of Nazareth dreams.'
+title: 'The Valley of Vision : A Book of Romance and Some Half-Told Tales'
+url: http://www.gutenberg.org/ebooks/6009
